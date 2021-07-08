@@ -1,1 +1,1 @@
-# ubuntu-image-with-pwsh
+Ubuntu docker image that has powershell installed
