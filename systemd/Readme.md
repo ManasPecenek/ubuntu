@@ -1,2 +1,2 @@
 
-### This image will be used to install a kubernetes cluster on docker containers
+### This image will be used in order to install a kubernetes cluster on docker containers
