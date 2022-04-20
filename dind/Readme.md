@@ -1,4 +1,4 @@
-# This repository consists docker ubuntu images with docker and systemd installed.
+# This repository consists of docker ubuntu images with docker and systemd installed.
 
 # How to run these images:
 
