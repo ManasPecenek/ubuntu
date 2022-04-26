@@ -2,7 +2,7 @@
 
 # How to run these images:
 
-## First check your architecture with `dpkg --print-architecture`. If your architecture is amd64:
+## First check your architecture with `dpkg --print-architecture` or `uname -m`. If your architecture is amd64:
 
 ```
 docker run -dt --name ubuntu-dind --privileged petschenek/ubuntu-20.04-dind:amd64-v1.0
